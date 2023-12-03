@@ -1,2 +1,5 @@
-package biblioteca;public class Ziar {
+package biblioteca;
+
+public class Ziar {
+
 }

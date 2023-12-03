@@ -1,2 +1,4 @@
-package biblioteca;public class Video {
+package biblioteca;
+
+public class Video {
 }

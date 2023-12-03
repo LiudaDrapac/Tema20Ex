@@ -1,2 +1,4 @@
-package biblioteca;public class Carte {
+package biblioteca;
+
+public class Carte {
 }
